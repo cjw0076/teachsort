@@ -1,0 +1,5 @@
+/target/
+/.demo/
+/.test-output/
+**/.teachsort/
+*.tmp
